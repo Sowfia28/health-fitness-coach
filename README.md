@@ -15,6 +15,8 @@ We designed a GenAI-powered health and fitness app that offers:
 
 - 📄 [Phase 1 - Requirement Analysis](./Phase-1.pdf)
 - 📄 [Phase 2 - Functional Design](./Phase-2.pdf)
+- ![Personalized Health and Fitness Coach](./fitness-genai-cover.png)
+*A GenAI-powered fitness app project for System Analysis and Design*
 
 ## Tools & Concepts
 
